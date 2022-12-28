@@ -21,7 +21,7 @@
         "options": {
           "icon": "Info",
           "text": "FortiGate Deployment Type - Active/Passive - External and Internal Load Balancers - Availability Set or Availability Zones",
-          "uri": "https://github.com/fortinet/azure-templates/tree/main/FortiGate/Active-Passive-ELB-ILB"
+          "uri": "https://github.com/nrodes/azure-templates/tree/main/FortiGate/Active-Passive-ELB-ILB"
         }
       },
       {
